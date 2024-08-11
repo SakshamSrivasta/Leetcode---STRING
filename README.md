@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
