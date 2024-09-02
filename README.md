@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0001-two-sum) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
 ## Bit Manipulation
 |  |
