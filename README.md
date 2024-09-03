@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
 ## Hash Table
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
