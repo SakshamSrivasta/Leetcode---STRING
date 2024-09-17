@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
