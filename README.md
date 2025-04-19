@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0136-single-number) |
+| [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode---STRING/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
